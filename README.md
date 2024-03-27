@@ -14,4 +14,4 @@ Every detail of the game created from the scratch on Unity and used appropriate 
 
 This project is created only for educational purposes! 
 
-You may freely use, redistrubte, and edit the scripts in non-commercial projects.
+You may freely use, redistrubte, and edit the scripts in non-commercial projects. 
